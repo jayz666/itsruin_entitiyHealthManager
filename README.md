@@ -1,4 +1,5 @@
-# Entitiy Health (Damage) & Freeze Manager for FiveM (Standalone)
+# itsruin_entitiyHealthManager
+Entitiy Health (Damage) & Freeze Manager for FiveM (Standalone)
 
 ## 소개
 인게임에 존재하는 특정 오브젝트를 무적 상태로 만들고 움직이지 않도록 고정하는 시스템입니다.<br/>
