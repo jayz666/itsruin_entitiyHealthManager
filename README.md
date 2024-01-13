@@ -11,7 +11,7 @@ Entitiy Health (Damage) & Freeze Manager for FiveM (Standalone)
 2. 찾은 오브젝트의 이름을 `lua/config.lua`에 추가하여 적용합니다.
 
 ```lua
-local props = {
+config.props = {
 	"오브젝트 이름 입력",
 }
 ```
