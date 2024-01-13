@@ -8,7 +8,7 @@ Entitiy Health (Damage) & Freeze Manager for FiveM (Standalone)
 
 ## 설정 방법
 1. 지정하고자 하는 오브젝트의 이름을 찾습니다. (GTA 온라인 오브젝트의 경우 https://gtahash.ru/ 에서 찾으실 수 있습니다.)
-2. 찾은 오브젝트의 이름을 `lua/client.lua`에 추가하여 적용합니다.
+2. 찾은 오브젝트의 이름을 `lua/config.lua`에 추가하여 적용합니다.
 
 ```lua
 local props = {
